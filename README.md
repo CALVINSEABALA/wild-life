@@ -70,7 +70,7 @@ To start the server, run the following:
 ## Hosting
 
 This project is hosted on [Netlify](https://netlify.com/), utilizing GitHub CI/CD for automated builds. 
-You can access the project at [https://optimi.netlify.app/](https://optimi.netlify.app/). 🌐
+You can access the project at [https://wild-life-frontend.netlify.app/]. 🌐
 
 
 
