@@ -1,0 +1,20 @@
+.App {
+  font-family: poppins;
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.highlighted {
+  background-color: lightblue;
+}
