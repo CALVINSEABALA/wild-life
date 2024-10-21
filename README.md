@@ -1,4 +1,4 @@
-# 🚀 WildLideFrontend
+# 🚀 Wild Life Frontend
 
 Thank you  Fedilis and The LandBanking group family once again, for this wonderful project! 🙌
 
